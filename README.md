@@ -8,3 +8,4 @@ Created using using NLP by analyzing different models of various architecture su
 - CONV1D
 
 Built the model following several best practices of model creation
+
